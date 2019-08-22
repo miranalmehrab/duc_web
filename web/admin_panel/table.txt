@@ -1,0 +1,34 @@
+ <table class="table table-dark table-hover">
+    <thead>
+      <tr>
+        <th>Collge Name</th>
+        <th>Students</th>
+        <th>Postition</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Notre Dame College</td>
+        <td>2850</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Foxcon College</td>
+        <td>1820</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <td>Dhaka College</td>
+        <td>1000</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>Rajuk Uttara Model College</td>
+        <td>1500</td>
+        <td>4</td>
+      </tr>
+                
+
+    </tbody>
+  </table>
+    
